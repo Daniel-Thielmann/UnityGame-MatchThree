@@ -1,0 +1,36 @@
+# Compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+*.app
+*.pdb
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.unityproj
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# User-specific settings
+UserSettings/
